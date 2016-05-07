@@ -63,4 +63,4 @@ target/
 # tmp files
 authfile
 
-*.pdf
+#*.pdf
